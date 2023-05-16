@@ -20,6 +20,8 @@ This notebook:
 * Calculates correlation and regression
 <img width="634" alt="Screen Shot 2023-05-15 at 8 34 19 PM" src="https://github.com/Phil-Mart/Data-Visulization-Pandas/assets/120279988/31ff7c4e-1a1b-42c1-8c97-c046cca3c81c">
 
-#Contact
+# Contact
+
 Email: PhillipMartinez@my.unt.edu
+
 LinkedIn: https://www.linkedin.com/in/phil-mart/
